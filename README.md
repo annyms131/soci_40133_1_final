@@ -1,7 +1,7 @@
 # Final Project for SOCI 40133
 
 * data:
-  - scraped via the PubMed APT
+  - scraped via the PubMed API
   - not as organized
   - containts train, dev, test sets used for BERT
   
